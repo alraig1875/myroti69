@@ -1,4 +1,4 @@
-# Toko Sayur 22
+# myroti69
 
 
 
@@ -18,8 +18,6 @@ dan lain-lain.
 
 User demo:
 - Admin
-username: mulyojr
-password: qwerty
-- Customer:
-username: agungtr
-password: qwerty
+username: admin
+password: admin
+
